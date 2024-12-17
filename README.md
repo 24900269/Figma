@@ -32,6 +32,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 html code
 <div class="container--0-">
   <img
@@ -244,11 +245,14 @@ css code
   text-align: center;
   vertical-align: top;
 }
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot (88).png>)
 ![alt text](<Screenshot (89).png>)
 ![alt text](<Screenshot (90).png>)
+
+
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
