@@ -33,224 +33,78 @@ Figma
 
 ## CODE:
 ```
-html code
-<div class="container--0-">
-  <img
-    src="image.png;"
-  /><svg
-    width="208"
-    height="61"
-      >
-    <ellipse cx="104" cy="30.5" rx="104" ry="30.5" fill="#D9D9D9"></ellipse>
-  </svg>
-  <div class="text-0-1-2">LOGIN</div>
-  <svg
-    width="247"
-    height="62"
-      >
-    <ellipse cx="123.5" cy="31" rx="123.5" ry="31" fill="#D9D9D9"></ellipse>
-  </svg>
-  <div class="text-0-1-4">REGISTER</div>
-  <img
-    src="image.png"
-  />
-</div>
-<svg
-  width="100"
-  height="100"
- 
->
-  <rect width="100" height="100" fill="#D9D9D9"></rect>
-</svg>
-css code
-.container--0- {
-  position: absolute;
-  left: -220px;
-  top: -478px;
-  width: 440px;
-  height: 956px;
-  background-color: #f4b78b;
-  justify-content: start;
-  align-items: start;
-}
-.text-0-1-2 {
-  width: 124px;
-  height: 48px;
-  color: #000000;
-  font-size: 40px;
-  font-family: Inter, "Semi Bold Italic";
-  font-weight: 600;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-4 {
-  width: 195px;
-  height: 48px;
-  color: #000000;
-  font-size: 40px;
-  font-family: Inter, "Semi Bold Italic";
-  font-weight: 600;
-  text-align: center;
-  vertical-align: top;
-}
+html.code
 
 
-html code
-<div class="container--0-">
-  <img
-    src="image.png;"
-  />
-  <div class="text-0-1-1"><br />NAME</div>
-  <svg
-    width="226"
-    height="51"
-   
-  >
-    <rect width="226" height="51" fill="#D9D9D9"></rect>
-  </svg>
-  <div class="text-0-1-3">Email</div>
-  <svg
-    width="225"
-    height="43"
-    
-  >
-    <rect width="225" height="43" fill="#D9D9D9"></rect>
-  </svg>
-  <div class="text-0-1-5">Phone no</div>
-  <svg
-    width="195"
-    height="46"
-   
-  >
-    <rect width="195" height="46" fill="#D9D9D9"></rect></svg
-  ><svg
-    width="369"
-    height="61"
-      >
-    <rect width="369" height="61" fill="#261D11" fill-opacity="0.65"></rect>
-  </svg>
-  <div class="text-0-1-8"><br />SUMBIT</div>
-  <svg
-    width="321"
-    height="154"
-      >
-    <ellipse cx="160.5" cy="77" rx="160.5" ry="77" fill="#D9D9D9"></ellipse>
-  </svg>
-  <div class="text-0-1-10">'once and <br />a lifetime’</div>
+<div style="width: 395px; height: 864px; background: #7871C1; border-radius: 41px"></div>
+<div style="width: 109px; height: 849px; background: #FFD2D2; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+  <img style="width: 473px; height: 932px" src="https://via.placeholder.com/473x932" />
 </div>
-<img
-  src="image.png;"
-/>
-css code
-.container--0- {
-  position: absolute;
-  left: -220px;
-  top: -479px;
-  width: 440px;
-  height: 956px;
-  background-color: #f4b78b;
-  justify-content: start;
-  align-items: start;
-}
-.text-0-1-1 {
-  width: 120px;
-  height: 35px;
-  color: #faeeee;
-  font-size: 40px;
-  font-family: Inter, "Semi Bold Italic";
-  font-weight: 600;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-3 {
-  width: 200px;
-  height: 48px;
-  color: #f5e6e6;
-  font-size: 40px;
-  font-family: Inter, "Semi Bold Italic";
-  font-weight: 600;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-5 {
-  width: 182px;
-  height: 48px;
-  color: #f4e0e0;
-  font-size: 40px;
-  font-family: Inter, "Semi Bold Italic";
-  font-weight: 600;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-8 {
-  width: 378px;
-  height: 53px;
-  color: #c27646;
-  font-size: 40px;
-  font-family: Inter, "Extra Bold Italic";
-  font-weight: 800;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-10 {
-  width: 370px;
-  height: 77px;
-  color: #000000;
-  font-size: 40px;
-  font-family: Inter, "Light Italic";
-  font-weight: 300;
-  text-align: center;
-  vertical-align: top;
-}
+<img style="width: 345px; height: 54px" src="https://via.placeholder.com/345x54" />
+<div style="width: 222px; height: 84px; background: #65558F; border-radius: 100px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+  <div style="align-self: stretch; flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">LOGIN</div>
+  </div>
+</div>
+<div style="width: 222px; height: 84px; background: #65558F; border-radius: 100px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+  <div style="align-self: stretch; flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">REGISTER</div>
+  </div>
+</div>
+<img style="width: 274px; height: 237px; border-radius: 6px" src="https://via.placeholder.com/274x237" />
 
-html code
-<div class="container--0-">
-  <img
-    src="image.png;"
-  />
-  <div class="text-0-1-3">Register successfully..!</div>
-  <div class="text-0-1-4">Design and developed by SATHISH.B</div>
+<div style="width: 395px; height: 864px; background: #7871C1; border-radius: 41px"></div>
+<div style="width: 115px; height: 849px; background: #FFD2D2; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+  <img style="width: 473px; height: 932px" src="https://via.placeholder.com/473x932" />
 </div>
-<img
-  src="image.png;"
-/>
-css code
-.container--0- {
-  position: absolute;
-  left: -220px;
-  top: -479px;
-  width: 440px;
-  height: 956px;
-  background-color: #f7ca8b;
-  justify-content: start;
-  align-items: start;
-}
-.text-0-1-3 {
-  width: 423px;
-  height: 52px;
-  color: #db6567;
-  font-size: 40px;
-  font-family: Inter, "Bold";
-  font-weight: 700;
-  text-align: center;
-  vertical-align: top;
-}
-.text-0-1-4 {
-  width: 418px;
-  height: 22px;
-  color: #f53f42;
-  font-size: 40px;
-  font-family: Inter, "Medium";
-  font-weight: 500;
-  text-align: center;
-  vertical-align: top;
-}
+<img style="width: 345px; height: 54px" src="https://via.placeholder.com/345x54" />
+<div style="width: 137px; height: 65px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="width: 80px; padding-left: 16px; padding-right: 16px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center; color: #1D1B20; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">NAME :</div>
+  </div>
+</div>
+<div style="width: 137px; height: 65px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="width: 81px; padding-left: 16px; padding-right: 16px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center; color: #1D1B20; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">EMAIL :</div>
+  </div>
+</div>
+<div style="width: 137px; height: 65px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="width: 87px; padding-left: 16px; padding-right: 16px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center; color: #1D1B20; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">PHONE :</div>
+  </div>
+</div>
+<div style="width: 168px; height: 50px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center"></div>
+  </div>
+</div>
+<div style="width: 168px; height: 50px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center"></div>
+  </div>
+</div>
+<div style="width: 168px; height: 50px; border-radius: 8px; overflow: hidden; border: 1px #CAC4D0 solid; justify-content: center; align-items: center; display: inline-flex">
+  <div style="padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; justify-content: center; align-items: center; gap: 8px; display: flex">
+    <div style="text-align: center"></div>
+  </div>
+</div>
+<div style="width: 177px; height: 73px; background: #65558F; border-radius: 100px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+  <div style="align-self: stretch; flex: 1 1 0; padding-left: 24px; padding-right: 24px; padding-top: 10px; padding-bottom: 10px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">SUMBIT</div>
+  </div>
+</div>
+
+<div style="width: 395px; height: 864px; background: #7871C1; border-radius: 41px"></div>
+<img style="width: 345px; height: 54px" src="https://via.placeholder.com/345x54" />
+<div style="width: 239px; height: 197px; text-align: center; color: white; font-size: 25px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">REGISTERED<br/> <br/>SUCCESSFULLY</div>
+<div style="width: 109px; height: 849px; background: #FFD2D2; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+  <img style="width: 473px; height: 932px" src="https://via.placeholder.com/473x932" />
+</div>
+<div style="width: 345px; height: 132px; text-align: center; color: white; font-size: 25px; font-family: Roboto; font-weight: 500; line-height: 20px; letter-spacing: 0.10px; word-wrap: break-word">DEVELOPED BY  SHREE CHANDRU R</div>
+
 ```
 ## OUTPUT:
-![alt text](<Screenshot (88).png>)
-![alt text](<Screenshot (89).png>)
-![alt text](<Screenshot (90).png>)
-
+![alt text](<Screenshot (29).png>)
 
 
 
